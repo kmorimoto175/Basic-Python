@@ -6,4 +6,4 @@ while True:
  else:
   a.append(n)
 for i in range(len(a)):
- print("Case " + str(i+1) + ": "+ str(a[i])) 
+ print(f"Case {i+1}: {a[i]}") 
